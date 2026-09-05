@@ -267,7 +267,7 @@ export default function Home() {
           <div className="section-kicker">07 / START A PROJECT</div>
           <h2>Have a hardware problem<br />worth solving?</h2>
           <p>Tell us what you are building, where you are stuck, or what you need engineered.</p>
-          <a className="btn btn--light" href="mailto:hello@wavetris.com">hello@wavetris.com <ArrowIcon /></a>
+          <a className="btn btn--light" href="mailto:info@wavetris.com">info@wavetris.com <ArrowIcon /></a>
           <div className="contact__note">For project enquiries, include your application, current development stage and expected scope.</div>
         </div>
       </section>

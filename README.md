@@ -27,7 +27,7 @@ Open http://localhost:3000.
 
 The site currently links project enquiries to:
 
-`hello@wavetris.com`
+`info@wavetris.com`
 
 Create this mailbox/forwarder before launch, or change the email in `app/page.js`.
 
